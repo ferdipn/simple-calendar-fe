@@ -5,7 +5,7 @@ This is a simple-calendar project bootstrapped with [`create-next-app`](https://
 1. Clone the project to your local directory 
 2. Go to dir simple-calendar-fe `cd simple-calendar-fe`
 3. install dependency `npm -install`
-4. run server `npm -run de
+4. run server `npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
